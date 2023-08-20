@@ -1,4 +1,5 @@
 # 0x11. C - printf
+The second Partner is here www.github.com/KennethNjuguna
 
 The aim of the project is to learn the following objectives:
 	Write your own printf function.
